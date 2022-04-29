@@ -26,13 +26,13 @@ I am a Web Developer.
 
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantasticLBP)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abshirnoor)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-[![Abshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantasticLBP&layout=compact)](https://github.com/abshirnoor)
+[![Abshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abshirnoor&layout=compact)](https://github.com/abshirnoor)
 
 -------
 
