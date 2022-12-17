@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Abshir 
 I am a Web Developer.
 
-- 💻 App development | Web development | Application Security | Anti-Spider
+- 💻 App development | Web development |
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: abshirceynte9@gmail.com
 - 👑 My Website https://abshirnoor.com/
